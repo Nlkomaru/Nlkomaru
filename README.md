@@ -1,5 +1,5 @@
 ### Hi there 👋
-🧑‍🎓 I'm a national university student in Japan.
+🧑‍🎓 I'm a university student in Japan.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nlkomaru&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
