@@ -18,7 +18,7 @@
 [![My Skills](https://skillicons.dev/icons?i=rust,blender,threejs,&theme=light)](https://skillicons.dev)
 
 ## Social
-- [Portfolio](https://x.com/nikomaru0102)
+- [Portfolio](https://www.nikomaru.dev)
 - [Twitter](https://x.com/nikomaru0102)
 - [Zenn](https://zenn.dev/nikomaru)
 
