@@ -7,7 +7,7 @@
 
 ### Languages and Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin,java,figma,ts,nextjs,workers&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,java,go,ts,nextjs,workers&theme=light)](https://skillicons.dev)
 
 ### Tools
 
