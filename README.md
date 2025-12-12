@@ -7,11 +7,11 @@
 
 ### Languages and Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin,java,go,ts,nextjs,workers&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,java,go,ts,nextjs&theme=light)](https://skillicons.dev)
 
 ### Tools
 
-[![My Skills](https://skillicons.dev/icons?i=figma,aws,azure,githubactions,docker,kubernetes,idea,webstorm,vscode,cursor&theme=light&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,aws,azure,workers,githubactions,docker,kubernetes,idea,webstorm,vscode,cursor&theme=light&perline=5)](https://skillicons.dev)
 
 ## Learning
 
