@@ -25,6 +25,7 @@
 <details>
   <summary>GitHub Stats ✨</summary>
   
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nlkomaru&layout=compact)</a>
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Nlkomaru&langs_count=4)](https://github-stats-extended.vercel.app/api/top-langs?username=Nlkomaru&langs_count=4)
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Nlkomaru&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=Nlkomaru&include_all_commits=true)
 </details>
 </div>
